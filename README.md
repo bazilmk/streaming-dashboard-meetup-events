@@ -13,9 +13,21 @@
 - Preprocessing done using Spark and map-reduce techniques with the output being stored in Cassandra.
 - Single-page interactive visualization dashboard built using ‘Dash by Plotly‘ updated in real-time with the stream every 5 seconds.
 
-### Dashboard Overview
+### Dashboard
 ![Dashboard](images/dashboard_overview.png?raw=true)
+
+### Components within Dashboard
+
+#### Statistics Header
+- Top header displays and updates the overall metrics of RSVP’s and the last time the dashboard was updated
+
 ![Statistics Header](images/statistics_header.png?raw=true)
+
+#### Click-based Interactive Updates
+- Bar graph interacts with the world map based on the area selected on the world map.
+  - E.g. we clicked on USA and the bar graph filtered based on that to show the top events trending only in USA.
+- Group names are shown on the bars when you hover over them.
+
 ![Interactive Updates](images/interactive_updates.png?raw=true)
 
 ### Cassandra Tables Excerpts
