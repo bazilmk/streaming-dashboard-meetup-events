@@ -1,0 +1,8 @@
+dash
+pyspark
+dash_bootstrap_components
+requests
+pandas
+cassandra-driver
+pycountry
+kafka-python
