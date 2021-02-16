@@ -18,6 +18,15 @@
 ![Interactive Updates](images/interactive_updates.png?raw=true)
 
 ### Cassandra Tables Excerpts
-![Cassandra Country Stats](images/cassandra_country_stats_table.png?raw=true)
+
+- Pre-aggregated the data in a distributed fashion using Spark before storing it in Cassandra
+- The 3 aggregated tables are stored in Cassandra where the total RSVP count was updated by the stream every 5 seconds.
+
+#### Country Event Statistics Table
 ![Cassandra Event Stats](images/cassandra_event_stats_table.png?raw=true)
+
+#### Country Statistics Table
+![Cassandra Country Stats](images/cassandra_country_stats_table.png?raw=true)
+
+#### Response Statistics Table
 ![Cassandra Response Stats](images/cassandra_response_stats_table.png?raw=true)
