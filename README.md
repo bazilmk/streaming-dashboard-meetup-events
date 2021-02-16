@@ -3,7 +3,6 @@
 ## Screenshots
 
 ### Solution Overview - Pipeline runs simultaneously in real-time
-![Solution](images/solution_overview.png?raw=true)
 
 - Created a real-time streaming RSVP dashboard which updates every 5 seconds.
 - Used the Meetup API. Meetup is an online service where in-person event groups are created and users can confirm their participation in the events.
@@ -11,6 +10,8 @@
 - Spark Streaming is used as a consumer to receive the messages every 5 seconds as a batch.
 - Preprocessing done using Spark and map-reduce techniques with the output being stored in Cassandra.
 - Single-page interactive visualization dashboard built using ‘Dash by Plotly‘ updated in real-time with the stream every 5 seconds.
+
+![Solution](images/solution_overview.png?raw=true)
 
 ### Dashboard Overview
 ![Dashboard](images/dashboard_overview.png?raw=true)
