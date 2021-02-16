@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-### Solution Overview (Technologies)
+### Solution Overview - Pipeline runs simultaneously in real-time
 ![Solution](images/solution_overview.png?raw=true)
 
 - Created a real-time streaming RSVP dashboard which updates every 5 seconds.
