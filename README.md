@@ -16,7 +16,7 @@
 ### Dashboard
 ![Dashboard](images/dashboard_overview.png?raw=true)
 
-### Components within Dashboard
+### Components within the dashboard
 
 #### Statistics Header
 - Top header displays and updates the overall metrics of RSVP’s and the last time the dashboard was updated.
