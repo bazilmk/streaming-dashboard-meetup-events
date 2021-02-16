@@ -7,4 +7,4 @@ This repository consists of the following:
 ## Screenshots
 
 ### Solution Overview
-[!Solution](images/solution_overview.png?raw=true)
+![Solution](images/solution_overview.png?raw=true)
