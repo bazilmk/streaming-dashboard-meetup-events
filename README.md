@@ -1,1 +1,1 @@
-# streaming-dashboard-meetup-api
+Meetup - Real-time streaming dashboard
