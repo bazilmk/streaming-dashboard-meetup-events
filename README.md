@@ -1,4 +1,4 @@
-# Meetup - Real-time streaming dashboard
+# Meetup: Real-time streaming dashboard
 
 ## Screenshots
 
